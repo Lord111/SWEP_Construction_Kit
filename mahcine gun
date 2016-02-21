@@ -1,0 +1,9 @@
+SWEP.HoldType = "pistol"
+SWEP.ViewModelFOV = 70
+SWEP.ViewModelFlip = false
+SWEP.UseHands = false
+SWEP.ViewModel = "models/weapons/v_pistol.mdl"
+SWEP.WorldModel = "models/weapons/w_pistol.mdl"
+SWEP.ShowViewModel = true
+SWEP.ShowWorldModel = true
+SWEP.ViewModelBoneMods = {}
