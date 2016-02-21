@@ -1,0 +1,10 @@
+SWEP.HoldType = "ar2"
+SWEP.ViewModelFOV = 70
+SWEP.ViewModelFlip = false
+SWEP.UseHands = false
+SWEP.ViewModel = "models/weapons/v_rif_galil.mdl"
+SWEP.WorldModel = "models/weapons/w_rif_galil.mdl"
+SWEP.ShowViewModel = true
+SWEP.ShowWorldModel = true
+SWEP.ViewModelBoneMods = {}
+
